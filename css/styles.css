@@ -1,0 +1,17 @@
+.actor {
+   display: flex;
+   align-items: top;
+}
+
+#description {
+    font-size: 20px;
+}
+
+#nickname {
+    color: red;
+}
+
+.film {
+    display: flex;
+    align-items: top;
+}
